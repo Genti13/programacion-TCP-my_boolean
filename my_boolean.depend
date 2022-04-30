@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1651267442 source:e:\unlam\programacion & tcp\tcp\my_boolean\main.cpp
+	<iostream>
+	"classes/Boolean.h"
+
+1651267548 source:e:\unlam\programacion & tcp\tcp\my_boolean\classes\boolean.cpp
+	"boolean.h"
+
+1651267548 e:\unlam\programacion & tcp\tcp\my_boolean\classes\boolean.h
+
